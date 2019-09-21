@@ -1,2 +1,5 @@
 # fizzbuzz
-Fizzbuzz prectivce #wu2019
+
+Fizzbuzz prectice #wu2019
+
+Author: Jirawan chuaykeaw
